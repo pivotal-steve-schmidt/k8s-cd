@@ -1,0 +1,4 @@
+namespace: dev-ns
+namePrefix: dev-
+resources:
+  - ../../../deployments/cd-hello/hello-server-deployment.yaml
