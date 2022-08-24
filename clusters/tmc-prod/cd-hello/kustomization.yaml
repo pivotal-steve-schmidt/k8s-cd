@@ -1,0 +1,4 @@
+namespace: prod-ns
+namePrefix: prod-
+bases:
+  - ../../../deployment/cd-hello/
